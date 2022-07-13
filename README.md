@@ -2,6 +2,8 @@
 
 Thaana text to Latin transliterator.
 
+This was initially available at naxeem/thaana-transliterator.
+
 ### Usage JavaScript
 
 ```html
